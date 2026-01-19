@@ -1,0 +1,6 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Digikey
+F1,SMD0805-050-16V,~,Fuse:Fuse_1206_3216Metric,1,,18-1206L050/24WRCT-ND
+J1,USB_C_Receptacle_USB2.0_16P,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,mx-unsaver:PHOENIX_1332645,1,,277-1332645CT-ND
+J2,Conn_01x04_MountingPin,~,Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,1,,455-SM04B-SRSS-TBCT-ND
+"R1,R2",5.1k,~,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,,P5.10KHCT-ND
+U1,SRV05-4,http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF,PCM_marbastlib-various:SOT-23-6-routable,1,,5399-SRV05-4CT-ND

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mx-unsaver")(type "KiCad")(uri "F:/Documents/Keyboards/mx-unsaver/mx-unsaver.kicad_sym")(options "")(descr ""))
+)

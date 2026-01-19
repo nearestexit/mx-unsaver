@@ -1,0 +1,14 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Digikey
+"C1,C2,C5,C7",100n,~,Capacitor_SMD:C_0603_1608Metric,4,,311-1088-1-ND
+"C3,C8,C9",1u,~,Capacitor_SMD:C_0805_2012Metric,3,,1276-1029-1-ND
+"C4,C6",4.7u,~,Capacitor_SMD:C_0603_1608Metric,2,,1276-1784-1-ND
+D1,LED_NUM,~,mx-unsaver:LED_MX_3mm_Offset_Flipped,1,,67-1058-ND
+"J1,J2",Conn_01x01,~,mx-unsaver:PinHeader_1x01_P2.54mm,2,,
+"J3,J4",Conn_01x02,~,mx-unsaver:PinHeader_1x02_P2.54mm_BOOT,2,,
+J5,Conn_01x04_MountingPin,~,Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,1,,455-SM04B-SRSS-TBCT-ND
+"MX1,MX2,MX3,MX4,MX5,MX6,MX7,MX8,MX9,MX10,MX11,MX12,MX13,MX14,MX15,MX16,MX17,MX18,MX19,MX20,MX21,MX22,MX23",MX_SW_solder,~,-- mixed values --,23,,
+R1,10k,~,Resistor_SMD:R_0805_2012Metric,1,,RMCF0805FT10K0CT-ND
+R2,1k,~,Resistor_SMD:R_0805_2012Metric,1,,P1.0KDACT-ND
+"S1,S2,S3",MX_stab,,mx-unsaver:STAB_MX_2u_FixedDistance,3,,
+U1,STM32F072CBTx,https://www.st.com/resource/en/datasheet/stm32f072cb.pdf,Package_QFP:LQFP-48_7x7mm_P0.5mm,1,,
+U2,XC6206PxxxMR,https://www.torexsemi.com/file/xc6206/XC6206.pdf,Package_TO_SOT_SMD:SOT-23-3,1,,893-XC6206P332MR-GCT-ND
