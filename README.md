@@ -24,7 +24,7 @@ Powered by [QMK](https://github.com/qmk/qmk_firmware).
 The PCB supports ISO and ANSI. Unfortunately, due to an oversight, the Case only supports ANSI enter. It could be relatively easily modified to support ISO enter.
 I ordered single bare PCBs from EuroCircuits and OSHPark and hand-soldered the components, so I do not have JLCPCB production files available.
 
-![PCB](https://github.com/nearestexit/ms-unsaver/blob/main/Pictures/PCB.JPG)
+![PCB](https://github.com/nearestexit/mx-unsaver/blob/main/Pictures/PCB.JPG)
 
 ## Bill of Materials
 
