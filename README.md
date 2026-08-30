@@ -43,6 +43,7 @@ I ordered single bare PCBs from EuroCircuits and OSHPark and hand-soldered the c
 | M3x6mm Countersunk | 5 | https://mcmaster.com/92125A126 |
 | M3x8mm Countersunk | 9 | https://mcmaster.com/92125A128 |
 | 1:1 JST-SH Cable (50mm) | 3 | https://www.digikey.com/en/products/detail/adafruit-industries-llc/4210/10230021 |
+| FPC Cable (50.8mm) | 1 | https://www.digikey.com/en/products/detail/molex/0151660207/3281088 |
 
 
 
